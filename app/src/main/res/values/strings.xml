@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TorchApp</string>
+    <string name="action_update">Update</string>
+    <string name="update_now">UPDATE NOW</string>
+    <string name="new_version">New Version</string>
+    <string name="no_new">Already the latest version</string>
+</resources>
